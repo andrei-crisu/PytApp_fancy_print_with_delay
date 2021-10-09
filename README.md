@@ -1,2 +1,3 @@
 # PytApp_fancy_print_with_delay
-## It prints a string  character by character with a time delay of 0.05 sec
+## It uses a custom function [my_print()] to print  a string  character by character with a time delay 
+## This is a small game
